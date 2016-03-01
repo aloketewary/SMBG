@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ApexbioApp</string>
+
+    <string name="title_activity_statisics">StatisicsActivity</string>
+    <string name="title_activity_export">ExportActivity</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_chart">ChartActivity</string>
+    <string name="title_activity_cable">CableActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_register">RegisterActivity</string>
+
+    <string name="CableActivity_NO_MORE_DEVICES_FOUND">No more devices found.</string>
+    <string name="CableActivity_attached">Attached.</string>
+    <string name="CableActivity_NO_SUPPORT_USB_HOST_API">No Support USB host API</string>
+    <string name="CableActivity_ENTER_OPENUSBSERIAL">Enter openUsbSerial</string>
+    <string name="CableActivity_CONNECTING">Connecting...</string>
+    <string name="CableActivity_CANNONT_OPEN">Cannot open, maybe no permission</string>
+    <string name="CableActivity_CHIP_HAS_NO_SUPPORT">Cannot open, maybe this chip has no support, please use PL2303HXD / RA / EA chip.</string>
+    <string name="CableActivity_CONNECTED">Connected.</string>
+
+    <string name="ExportActivity_UPLOAD_CONFIRM">Are you sure you want to upload data as below?\n</string>
+
+    <string name="LoginActivity_ErrorMsg_TextAccount">Check Your Account Information Please.</string>
+
+    <string name="RegisterActivity_ErrorMsg_PwdConfirm">Password does not match the confirm password.</string>
+    <string name="RegisterActivity_CheckUserInfo">Check your User info as below : \n</string>
+    <string name="RegisterActivity_RecheckData">Please recheck your data.</string>
+
+    <string name="SettingsActivity_PLEASE_INPUT_YOUR_OLD_PWD">Please enter your old password.</string>
+    <string name="SettingsActivity_OK">OK</string>
+    <string name="SettingsActivity_Cancel">Cancel</string>
+    <string name="SettingsActivity_PLEASE_RECHECK_THE_PWD">Password does not match the confirm password.</string>
+    <string name="SettingsActivity_ErrorMsg_OLD_PWD_WRONG">The old password is incorrect.</string>
+    <string name="SettingsActivity_MODIFY_SUCCCESS">Modify success.</string>
+
+    <string name="activity_chart_7_DAYS">7 days</string>
+    <string name="activity_chart_14_DAYS">14 days</string>
+    <string name="activity_chart_30_DAYS">30 days</string>
+
+    <string name="activity_export_TITLE_TEXT">Upload</string>
+    <string name="activity_export_METERNAME_TEXT">Meter</string>
+    <string name="activity_export_DATE_TEXT">Date</string>
+    <string name="activity_export_TIME_TEXT">Time</string>
+    <string name="activity_export_FLAG_TEXT">Flag</string>
+    <string name="activity_export_VALUE_TEXT">Value(mg/dL)</string>
+    <string name="activity_export_WEIGHT_TEXT">Weight(kg)</string>
+    <string name="activity_export_NOTE_TEXT">Note</string>
+
+    <string name="activity_login_ACCOUNT_TEXT">Account :</string>
+    <string name="activity_login_PASSWORD_TEXT">Password :</string>
+    <string name="activity_login_REGISTER_TEXT">Don\'t Have an Account? Sign-up now</string>
+
+    <string name="activity_overview_MAXIMUM_TEXT">Maximum</string>
+    <string name="activity_overview_MINIMUM_TEXT">Minimum</string>
+    <string name="activity_overview_AVERAGE_TEXT">Average</string>
+
+    <string name="activity_register_ACCOUNT_TEXT">Account :</string>
+    <string name="activity_register_PASSWORD_TEXT">Password :</string>
+    <string name="activity_register_PASSWORD_CONFIRM_TEXT">Password Confirm :</string>
+    <string name="activity_register_GENDER_TEXT">Gender :</string>
+    <string name="activity_register_NAME_TEXT">Name :</string>
+    <string name="activity_register_GENDER_MALE_TEXT">Male</string>
+    <string name="activity_register_GENDER_FEMALE_TEXT">Female</string>
+    <string name="activity_register_BIRTHDAY_TEXT">Birthday :</string>
+    <string name="activity_register_HEIGHT_TEXT">Height :</string>
+    <string name="activity_register_WEIGHT_TEXT">Weight :</string>
+    <string name="activity_register_EMAIL_TEXT">Email :</string>
+    <string name="activity_register_OK_TEXT">OK</string>
+    <string name="activity_register_CANCEL_TEXT">Cancel</string>
+    <string name="activity_register_HIGH_TEXT">High :</string>
+    <string name="activity_register_LOW_TEXT">Low :</string>
+
+    <string name="activity_settings_ACCOUNT_TEXT">Account :</string>
+    <string name="activity_settings_NEW_PASSWORD_TEXT">Password :</string>
+    <string name="activity_settings_CONFIRM_NEW_PASSWORD_TEXT">Confirm New PWD :</string>
+    <string name="activity_settings_NAME_TEXT">User Name :</string>
+    <string name="activity_settings_GENDER_TEXT">Gender :</string>
+    <string name="activity_settings_GENDER_MALE_TEXT">Male</string>
+    <string name="activity_settings_GENDER_FEMALE_TEXT">Female</string>
+    <string name="activity_settings_BIRTHDAY_TEXT">Birthday :</string>
+    <string name="activity_settings_HEIGHT_TEXT">Height :</string>
+    <string name="activity_settings_WEIGHT_TEXT">Weight :</string>
+    <string name="activity_settings_EMAIL_TEXT">Email :</string>
+    <string name="activity_settings_OK_TEXT">OK</string>
+    <string name="activity_settings_CLEAN_TEXT">Clean</string>
+    <string name="activity_settings_HIGH_TEXT">High :</string>
+    <string name="activity_settings_LOW_TEXT">Low :</string>
+
+    <string name="activity_statistics_TITLE_TEXT">StatisicsActivity</string>
+    <string name="activity_login_btnLogin">Login</string>
+    <string name="activity_login_btnExit">Exit</string>
+    <string name="activity_settings_GenderText">Gender :</string>
+    <string name="activity_export_HEIGHT_TEXT">Height(cm)</string>
+    <string name="activity_export_BtnSubmit">Submit</string>
+    <string name="activity_export_BtnClean">Clean</string>
+    <string name="activity_statistics_DATE_TEXT">Date</string>
+    <string name="activity_statistics_TIME_TEXT">Time</string>
+    <string name="activity_statistics_FLAG_TEXT">Flag</string>
+    <string name="activity_statistics_VALUE_TEXT">Value(mg/dL)</string>
+    <string name="activity_settings_TITLE">Settings</string>
+    <string name="activity_cable_btnUploadData">Upload Data</string>
+    <string name="title_activity_ble">BLEActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="activity_ble_btnBLEScan">Scan</string>
+    <string name="CLICK_BACK_AGAIN_TO_EXIT">Please click BACK again to exit</string>
+    <string name="RegisterActivity_CHECK_YOUR_ACCOUNT_INFO">Check your account info again please.</string>
+    <string name="RegisterActivity_DoubleAccount">This account is already being used.</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_tour">TourActivity</string>
+    <string name="TourActivity_start">Click here to start !</string>
+</resources>
